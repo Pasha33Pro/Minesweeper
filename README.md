@@ -44,8 +44,8 @@
    git clone https://github.com/Pasha33Pro/Minesweeper.git
    cd Minesweeper
    ```
-2. Откройте файл `.sln` или создайте новый пустой проект в Visual Studio.
-   3 .Добавьте файл `main.cpp` в проект.
+2. Откройте файл `.sln` или создайте новый пустой проект в Visual Studio. 
+3. Добавьте файл `main.cpp` в проект.
 4. Нажмите `Ctrl + F5` для компиляции и запуска.
 
 ## 🎮 Как играть
